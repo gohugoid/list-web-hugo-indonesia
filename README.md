@@ -7,4 +7,5 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [rezhajulio.id](https://rezhajulio.id)
 - [ariya.io](https://ariya.io/)
 - [ardianta.github.io](https://ardianta.github.io)
+- [dionarya.me](http://dionarya.me/blog/)
 - _(website kamu)_ 
