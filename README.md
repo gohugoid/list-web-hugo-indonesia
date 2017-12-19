@@ -10,6 +10,8 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [ardianta.github.io](https://ardianta.github.io)
 - [dionarya.me](http://dionarya.me/blog/)
 - [shvr.ga](https://shvr.ga/)
+- [blog.fajri.my.id](https://blog.fajri.my.id/)
+- [blog.serverless.id](https://blog.serverless.id/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
