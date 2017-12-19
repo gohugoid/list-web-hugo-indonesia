@@ -12,6 +12,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [shvr.ga](https://shvr.ga/)
 - [blog.fajri.my.id](https://blog.fajri.my.id/)
 - [blog.serverless.id](https://blog.serverless.id/)
+- [inseptek.com](https://inseptek.com/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
