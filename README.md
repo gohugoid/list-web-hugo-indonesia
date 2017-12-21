@@ -14,6 +14,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [blog.serverless.id](https://blog.serverless.id/)
 - [inseptek.com](https://inseptek.com/)
 - [lombokfoss.com](https://www.lombokfoss.com/)
+- [okutasan.github.io](https://okutasan.github.io)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
