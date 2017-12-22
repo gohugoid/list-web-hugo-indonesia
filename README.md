@@ -15,6 +15,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [inseptek.com](https://inseptek.com/)
 - [lombokfoss.com](https://www.lombokfoss.com/)
 - [okutasan.github.io](https://okutasan.github.io)
+- [muhammadzakyzulfiqor.xyz/](https://muhammadzakyzulfiqor.xyz/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
