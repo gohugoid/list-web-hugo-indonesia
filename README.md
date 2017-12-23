@@ -2,6 +2,7 @@
 
 Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 
+- [gohugoid.github.io](https://gohugoid.github.io/)
 - [petanikode.com](https://www.petanikode.com/)
 - [hobbious.com](https://hobbious.com/)
 - [isul.net](https://www.isul.net/blog/)
