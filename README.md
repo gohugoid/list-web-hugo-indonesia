@@ -21,6 +21,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [yuda.nantoos.id](https://yuda.nantoos.id/)
 - [golang.id](https://golang.id/)
 - [fahri.nurul.id](https://fahri.nurul.id/)
+- [ciptohadi.web.id](https://ciptohadi.web.id/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
