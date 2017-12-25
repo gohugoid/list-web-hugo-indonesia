@@ -18,6 +18,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [okutasan.github.io](https://okutasan.github.io)
 - [muhammadzakyzulfiqor.xyz](https://muhammadzakyzulfiqor.xyz/)
 - [tipobrata.github.io](https://tipobrata.github.io/)
+- [yuda.nantoos.id](https://yuda.nantoos.id/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
