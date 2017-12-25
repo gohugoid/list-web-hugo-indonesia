@@ -24,6 +24,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [ciptohadi.web.id](https://ciptohadi.web.id/)
 - [lramadhan.gitlab.io](https://lramadhan.gitlab.io/)
 - [primaadi.net](https://primaadi.net/)
+- [migrasi2awan.com](http://migrasi2awan.com/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
