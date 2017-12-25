@@ -25,6 +25,8 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [lramadhan.gitlab.io](https://lramadhan.gitlab.io/)
 - [primaadi.net](https://primaadi.net/)
 - [migrasi2awan.com](http://migrasi2awan.com/)
+- [krsus.com](https://www.krsus.com/)
+- [threechilix.xyz](http://threechilix.xyz/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
