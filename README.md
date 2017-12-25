@@ -19,6 +19,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [muhammadzakyzulfiqor.xyz](https://muhammadzakyzulfiqor.xyz/)
 - [tipobrata.github.io](https://tipobrata.github.io/)
 - [yuda.nantoos.id](https://yuda.nantoos.id/)
+- [golang.id](https://golang.id/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
