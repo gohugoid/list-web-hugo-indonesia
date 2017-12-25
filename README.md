@@ -23,6 +23,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [fahri.nurul.id](https://fahri.nurul.id/)
 - [ciptohadi.web.id](https://ciptohadi.web.id/)
 - [lramadhan.gitlab.io](https://lramadhan.gitlab.io/)
+- [primaadi.net](https://primaadi.net/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
