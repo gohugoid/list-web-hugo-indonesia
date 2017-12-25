@@ -20,6 +20,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [tipobrata.github.io](https://tipobrata.github.io/)
 - [yuda.nantoos.id](https://yuda.nantoos.id/)
 - [golang.id](https://golang.id/)
+- [fahri.nurul.id](https://fahri.nurul.id/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
