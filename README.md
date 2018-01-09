@@ -27,6 +27,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [migrasi2awan.com](http://migrasi2awan.com/)
 - [krsus.com](https://www.krsus.com/)
 - [threechilix.xyz](http://threechilix.xyz/)
+- [kbl.stmikbumigora.ac.id](http://kbl.stmikbumigora.ac.id)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
