@@ -1,7 +1,7 @@
 ## Website Indonesia yang Menggunakan Hugo
 
 ![Total](https://img.shields.io/badge/total-30-brightgreen.svg)
-[![Telegram](https://img.shields.io/badge/chat-telegram-blue.svg?logo=telegram)](https://t.me/gohugoid/)
+[![Telegram](https://img.shields.io/badge/chat-telegram-blue.svg)](https://t.me/gohugoid/)
 
 Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 
