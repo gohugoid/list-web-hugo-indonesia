@@ -35,6 +35,8 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [hamidwahyudin.com](https://hamidwahyudin.com/)
 - [meutiarahmah.com](https://www.meutiarahmah.com)
 - [histobekasi.com](http://www.histobekasi.com/)
+- [aswansyahputra.com](https://aswansyahputra.com)
+- [nadinepricilia.com](https://nadinepricilia.com)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
