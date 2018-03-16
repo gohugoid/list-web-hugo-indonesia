@@ -1,6 +1,6 @@
 ## Website Indonesia yang Menggunakan Hugo
 
-![Total](https://img.shields.io/badge/total-30-brightgreen.svg)
+![Total](https://img.shields.io/badge/total-33-brightgreen.svg)
 [![Telegram](https://img.shields.io/badge/chat-telegram-blue.svg)](https://t.me/gohugoid/)
 
 Website yang dibuat oleh orang Indonesia menggunakan Hugo:
@@ -16,7 +16,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [shvr.ga](https://shvr.ga/)
 - [blog.fajri.my.id](https://blog.fajri.my.id/)
 - [blog.serverless.id](https://blog.serverless.id/)
-- [inseptek.com](https://inseptek.com/)
+- [inseptek.github.io](https://inseptek.github.io/)
 - [lombokfoss.com](https://www.lombokfoss.com/)
 - [okutasan.github.io](https://okutasan.github.io)
 - [muhammadzakyzulfiqor.xyz](https://muhammadzakyzulfiqor.xyz/)
@@ -37,6 +37,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [histobekasi.com](http://www.histobekasi.com/)
 - [aswansyahputra.com](https://aswansyahputra.com)
 - [nadinepricilia.com](https://nadinepricilia.com)
+- [goblok.tech](https://goblok.tech/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
