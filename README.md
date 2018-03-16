@@ -1,6 +1,6 @@
 ## Website Indonesia yang Menggunakan Hugo
 
-![Total](https://img.shields.io/badge/total-30-brightgreen.svg)
+![Total](https://img.shields.io/badge/total-33-brightgreen.svg)
 [![Telegram](https://img.shields.io/badge/chat-telegram-blue.svg)](https://t.me/gohugoid/)
 
 Website yang dibuat oleh orang Indonesia menggunakan Hugo:
@@ -35,6 +35,8 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [hamidwahyudin.com](https://hamidwahyudin.com/)
 - [meutiarahmah.com](https://www.meutiarahmah.com)
 - [histobekasi.com](http://www.histobekasi.com/)
+- [aswansyahputra.com](https://aswansyahputra.com)
+- [nadinepricilia.com](https://nadinepricilia.com)
 - [goblok.tech](https://goblok.tech/)
 - _(website kamu)_ 
 
