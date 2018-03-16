@@ -16,7 +16,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [shvr.ga](https://shvr.ga/)
 - [blog.fajri.my.id](https://blog.fajri.my.id/)
 - [blog.serverless.id](https://blog.serverless.id/)
-- [inseptek.com](https://inseptek.com/)
+- [inseptek.github.io](https://inseptek.github.io/)
 - [lombokfoss.com](https://www.lombokfoss.com/)
 - [okutasan.github.io](https://okutasan.github.io)
 - [muhammadzakyzulfiqor.xyz](https://muhammadzakyzulfiqor.xyz/)
@@ -35,6 +35,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [hamidwahyudin.com](https://hamidwahyudin.com/)
 - [meutiarahmah.com](https://www.meutiarahmah.com)
 - [histobekasi.com](http://www.histobekasi.com/)
+- [goblok.tech](https://goblok.tech/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
