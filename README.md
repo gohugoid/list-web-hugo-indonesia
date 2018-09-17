@@ -38,6 +38,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [aswansyahputra.com](https://aswansyahputra.com)
 - [nadinepricilia.com](https://nadinepricilia.com)
 - [goblok.tech](https://goblok.tech/)
+- [kangmicin.com](https://kangmicin.com/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
