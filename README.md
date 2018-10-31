@@ -39,6 +39,8 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [nadinepricilia.com](https://nadinepricilia.com)
 - [goblok.tech](https://goblok.tech/)
 - [kangmicin.com](https://kangmicin.com/)
+- [slimskudus.github.io](https://slimskudus.github.io/)
+- [slimscommeet.github.io](https://slimscommeet.github.io/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
