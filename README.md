@@ -41,6 +41,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [kangmicin.com](https://kangmicin.com/)
 - [slimskudus.github.io](https://slimskudus.github.io/)
 - [slimscommeet.github.io](https://slimscommeet.github.io/)
+- [owob.web.id](https://owob.web.id/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
