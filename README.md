@@ -43,6 +43,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [slimscommeet.github.io](https://slimscommeet.github.io/)
 - [owob.web.id](https://owob.web.id/)
 - [xecops.com](https://xecops.com)
+- [linuxisekai.site](https://www.linuxisekai.site)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
