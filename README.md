@@ -44,6 +44,8 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [owob.web.id](https://owob.web.id/)
 - [xecops.com](https://xecops.com)
 - [linuxisekai.site](https://www.linuxisekai.site)
+- [saputrago.github.io](https://saputrago.github.io)
+- [cotutorial.github.io](https://cotutorial.github.io)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
